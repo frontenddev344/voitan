@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50" width="150" height="50">
+	<title>New Project</title>
+	<defs>
+		<image  width="55" height="50" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAyCAMAAADPyLPHAAAAAXNSR0IB2cksfwAAAn9QTFRF+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw+llw74m4LAAAANV0Uk5TAB+J7PGiPQ1N2vr84XsTLZH7/7NFC1nR34Qpj/i6Nwdhyv3+CAExo/by9fnOPHrZ3e2gFyhJRLTjQwwCctvpmRV01Y0kBBq99NJYHkqs10sJEV7obWxzsSUFLsb3WnwGUUF3g4WATxwhNjQiGzNGMh0KdqGrp305GW/EGIHilw+l6qiepKrrIIbm3O6KecicaFveQq/kAzWfh7gUtkC3sjh4lY5wTNN/cdZf85h1EG6bu5oWLzCtVT+SvFDBXfArY1O/zRLFV6mIJ9g7zz6WakfgI+flJF/wNwAAA8lJREFUeJyVlvlXE1cUxwcxjMyEZa4ioinRDEMSJxBDVAJpWqIGF0RAwIoLMYpSEQkYRAq0FIkiKIosAUUUcAMBt7qvrfuubf2DfDPBE9DJOS/fn2Z5nzf33XUIwo+CpgRPlYX4e+tX5LRQipaHhQfKRUQyAMz0GQFiUTOjAWlWDBkYN3uOQuCoH2IDwpRz5wGoWOGDcVwAXLxaA6x2PgO8LiEOH+MS9SxoZLIFwBqSjPjcwukaoOWLFidTwJhSUnEx848WgJ9+TiOtSwDopcswMVv68hVAr1yVkb46kwF2TVY2FsblrM0FUERb8/LX/aIBYGPWY7m0YMPGTTBRus1YLiWztKpJnLYwDYezR2RqJ2Kq5VuwDsiRjq3binzavqNY6nzmX+N3+lSyS4iWMor0Kc7sXags3e0oczjLK7y3GXtclT7trdpnl7TCXJ3wm7pGV6O2OmrFjep+n+QE6o8MSay+zsJ6j7umKlwA/2yYxLH746UwY6OJ+rqzyV1qI4gDB1EuKUTxNHpcWSLhqqZDzaj8KUPLYaELNB8pFTkmujVf0PajjDSXmqVXARt6rO142zE9A0x7R6nA8Z214utlSQpprikRWdIV6fQQZucUPTJq3Q4srluN1namiGHsTkL+6TmBxTlOIi7Mu6g3jAc45cbi+k4jrjBdvE4LQ449pcbiSlyIO1Mm2tkvQ3Y2Fnm5ak7Qen9c0ABydPNgbAFhiz2LegF77rwYhwsXhwQVzfMTh6hFwzSwLa68S/myFhQHS1+1GPeJkuKIjLoutCWtNY2ggDCmGHRUN06ecb2j8q95xssbaz0EUSifxCkGiyU4gkttHfZ2AXrl2GUhr4uvjKp96hnrLpDiCM4Y23b12sZr1/MT/hLriCvf4PQpPkgoS7vHV+Fm+3jd2mtvhHSE3Ej316RQn9hzzjE+MKNu5hVK94nvZI+4pTVU3hbHwuU7dxuoe/ex+hKZNVUF/IOHOWaOLHOjVvoosReHK3h8cj5y25K/K2znk1HUoOYfJQ7HZUckPwJWYWkdeDLCAvv09jO80cnZ+zKDUVqEWlD/1ehWGc1YGJJydc94NhhOXwrHxggirsMtzhb++YvsQOa7ranKII6Ul7NtAXCccSjaa6cpUuiVuHr2KhQ1ERX6EWFyO19LJ+z38oSfeMMDOyJztbBAH3Z1S0+Mb2Urb9XzQJtG3/ZffIfi3nB3J9YXK95bKKDbP+y2ca8HdKi+2z/W43Dkpy6K+veDU/Djf9Y3vOp/K9bfpGfX9eDcwRKv+4PGPmtupUjY+QWtARjusUFkxAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 25px;fill: #ffffff;font-weight: 700;font-family: "FamiliarPro-Bold", "Familiar Pro" } 
+	</style>
+	<use id="gamepad" href="#img1" x="0" y="0"/>
+	<text id="Voitan" style="transform: matrix(1.181,0,0,1.19,62.598,38.095)" >
+		<tspan x="0" y="0" class="t0">Voitan</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+</svg>

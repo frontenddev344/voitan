@@ -1,0 +1,166 @@
+@media (min-width: 576px){
+.modal-dialog {
+max-width: 800px !important;
+margin: 1.75rem auto;
+}
+}
+@media (max-width: 1200px) { 
+.navigation {
+padding: 12px 5px;
+}
+.about_boxes .box {
+min-height: 380px;
+}
+.about_boxes .outer .content figure img {
+object-fit: cover;
+}
+.contact_box aside {
+  padding: 20px 4px;
+}
+}
+@media (max-width: 991px) { 
+h1 {
+font-size: 55px;
+}
+.home_bnr_shapes .el-4 {
+right: 0;
+bottom: 0;
+}
+.home_bnr_shapes .el-3 {
+display: none;
+}
+.game_card {
+padding: 60px 10px;
+}
+.navigation {
+margin: 0 21px;
+width: calc(100% - 20px - 20px);
+}
+.navigation_items a {
+font-size: 15px;
+}
+.about_bnr {
+padding: 212px 0px 211px;
+}
+.contact_box aside {
+  padding: 20px 4px;
+}
+}
+
+@media (max-width: 800px) { 
+.mobile_btn{
+display: block;
+}
+.navigation_items {
+visibility: hidden;
+opacity: 0;
+position: fixed;
+top: 0;
+left: 0;
+flex-direction: column;
+width: 60%;
+align-items: self-start;
+height: 100vh;
+justify-content: flex-start;
+transition: all .3s ease;
+transform: translateX(-700px);
+z-index: 99;
+}
+.nav_logo {
+flex: 0 0 60%;
+}
+
+.navigation_right {
+flex: 0 0 40%;
+}
+.navigation_items a {
+font-size: 20px;
+color: #fff;
+}
+.links_actives {
+color: #aeaeae !important;
+}
+span.mobile_btn {
+color: #fff;
+}
+.mobile_cross{
+visibility: visible;
+opacity: 1;
+}
+.navigation_items li {
+margin: 0;
+padding: 17px 0px 0px 28px;
+}
+.navigation {
+clip-path: none; 
+margin: 0px;
+width: 100%;
+z-index: 99
+}
+.navigation_right {
+padding-right: 0px;
+}
+.nav_logo {
+padding-left: 0px;
+}
+}
+
+
+@media (max-width: 767px) { 
+h1 {
+font-size: 44px;
+}
+.home_bnr {
+padding: 216px 0px 231px;
+}
+.home_bnr_shapes .el-8 {
+display: none;
+}
+.home_bnr_shapes .el-4 {
+width: 378px;
+}
+.about_bnr .home_bnr_shapes .el-4{
+width: auto;
+}
+.home_bnr_shapes .el-2 {
+bottom: 9px;
+}
+.footer_box h3 {
+padding-bottom: 17px;
+}
+.footer_box {
+margin: 11px 5px;
+}
+.contact-bnr .home_bnr_shapes .el-4 {
+width: auto;
+}
+.contact_box .content img {
+width: 100%;
+object-position: center;
+}
+.contact_box aside {
+padding: 20px 8px;
+}
+}
+
+@media (max-width: 575px){
+h2 {
+font-size: 36px;
+}
+.privacy_bottom h3 {
+font-size: 22px;
+}
+h1 {
+  font-size: 38px;
+}
+}
+
+
+@media (max-width: 480px){
+.game_card_heading h2 {
+font-size: 34px;
+}
+.about_boxes .box {
+  min-height: 416px;
+}
+}
