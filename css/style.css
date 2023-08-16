@@ -241,43 +241,10 @@ overflow: hidden;
 border-radius: 10px;
 text-transform: capitalize;
 }
-
-.bnr_btn a::before, .bnr_btn a::after {
-content: "";
-background: #FFDC60;
-height: 50%;
-width: 0;
-position: absolute;
-transition: 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
--webkit-transition: 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
-z-index: -1;
+.bnr_btn a:hover{
+    background: #FFDC60;
+    color: #000;
 }
-.bnr_btn a::before {
-top: 0;
-left: 0;
-right: auto;
-}
-.bnr_btn a::after {
-bottom: 0;
-right: 0;
-left: auto;
-}
-.bnr_btn a:hover {
-color: var(--tp-common-black);
-background-color: var(--tp-theme-primary);
-}
-.bnr_btn a:hover::before {
-width: 100%;
-right: 0;
-left: auto;
-}
-
-.bnr_btn a:hover::after {
-width: 100%;
-left: 0;
-right: auto;
-}
-
 
 .home_bnr_shapes img{
 position: absolute;
